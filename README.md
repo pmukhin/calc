@@ -1,6 +1,6 @@
 # Calc (repl calculator)
 
-Very basic calculator implemented as kata-like exercise. Supports addition, subtraction, division and multiplication on
+Very basic calculator implemented as a kata-like exercise. Supports addition, subtraction, division and multiplication over
 positive integers (0 included).
 
 ### How to run
