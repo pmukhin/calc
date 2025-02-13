@@ -40,7 +40,7 @@ impl From<ast::Error> for Error {
 }
 
 impl From<eval::Error> for Error {
-    fn from(value: eval::Error) -> Self {
+    fn from(_value: eval::Error) -> Self {
         // defined for future use
         panic!("not defined yet.")
     }
